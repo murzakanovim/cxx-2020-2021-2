@@ -138,31 +138,3 @@ Boost
 корню библиотеки.
 
 > Путь не должен содержать пробельные символы.
-
-Accepted Labs
-=============
-
-| Name                  | A1 | A3 | B1 | B3 | B4 | B5 |
-|-----------------------|----|----|----|----|----|----|
-| Almuhidat Ahmad       | ✓  |    |    |    |    |    |
-| Arteev Danil          | ✓  |    |    |    |    |    |
-| Borisova Ekaterina    | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Diurdeva Dasha        | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Doroshin Danil        | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Dushechkina Viktoria  | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Ezerinia Marta        | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Ferapontov Mikhail    | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Ivanova Maria         | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Lebedeva Ekaterina    | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Levashov Mikhail      | ✓  | ✓  |    |    |    |    |
-| Lysenko Aleksandra    | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Murzakanov Islam      | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Pochernin Vladislav   | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Pozdnyakov Artemy     | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Pyatizbyantsev Ilya   | ✓  | ✓  | ✓  |    |    |    |
-| Razukrantov Vladislav | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Savchuk Aleksei       | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Shilyaev Vladislav    | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Shkurov Igor          | ✓  | ✓  | ✓  | ✓  | ✓  | ✓  |
-| Yarovoy Vadim         | ✓  |    |    |    |    |    |
-| __Total__             |  21|  18|  17|  16|  16|  16|
